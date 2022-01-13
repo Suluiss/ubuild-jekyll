@@ -20,5 +20,9 @@ page_sections:
   headline: ''
   slug: ''
   content: ''
+menu:
+  main:
+    weight: 2
+    title: USE
 
 ---
