@@ -27,7 +27,7 @@ page_sections:
     button_text: 'See on GitHub '
   image:
     image: ''
-    alt_text: Product Shot
+    alt_text: ''
   background_image: "/uploads/2022/01/13/sheeit.png"
 - template: content-feature
   block: feature-1
