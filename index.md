@@ -28,7 +28,7 @@ page_sections:
   image:
     image: ''
     alt_text: ''
-  background_image: "/uploads/2022/01/13/sheeit.png"
+  background_image: "/uploads/2022/01/13/untitled-2.png"
 - template: content-feature
   block: feature-1
   media_alignment: Left
