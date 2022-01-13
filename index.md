@@ -7,6 +7,8 @@ page_sections:
   block: header-2
   logo: "/uploads/2022/01/13/logos_transparent.png"
   navigation:
+  - link: ".use Domains"
+    link_text: ".use Domains"
   - link: about/
     link_text: About
   cta:
