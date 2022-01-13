@@ -11,6 +11,15 @@ page_sections:
   - link: home
     link_text: Home
   logo: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  media:
+    image: "/uploads/2022/01/13/logos.jpeg"
+    alt_text: ''
+  headline: ''
+  slug: ''
+  content: ''
 published: false
 
 ---
