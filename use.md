@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: ".use domains"
+title: ".use"
 date: 2022-01-13 08:00:00 +0000
 page_sections:
 - template: navigation-header
