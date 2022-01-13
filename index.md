@@ -22,7 +22,7 @@ page_sections:
   headline: ".use<br><strong>The future of domains</strong>"
   content: Get your own blockchain domain today
   cta:
-    enabled: true
+    enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
