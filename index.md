@@ -33,8 +33,8 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: swap
-  headline: "<strong>.Encrypted </strong><br>A premium HNS Blockchain domain"
-  content: Its the fucking best thing since sliced bread
+  headline: "<strong>.USE</strong><br>A premium HNS Blockchain domain"
+  content: 'Register your own today! '
   media:
     image: "/uploads/2022/01/13/logos.jpeg"
     alt_text: uBuild Blocks Mock-Up
