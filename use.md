@@ -26,6 +26,5 @@ page_sections:
 menu:
   main:
     weight: 2
-    title: USE
 
 ---
