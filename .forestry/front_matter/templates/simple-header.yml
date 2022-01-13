@@ -12,5 +12,3 @@ fields:
   label: Logo
   name: logo
   default: "/uploads/2022/01/13/encrypted.jpeg"
-pages:
-- en.md
