@@ -36,7 +36,7 @@ page_sections:
   headline: "<strong>.Encrypted </strong><br>A premium HNS Blockchain domain"
   content: Its the fucking best thing since sliced bread
   media:
-    image: "/uploads/2022/01/13/encrypted.jpeg"
+    image: "/uploads/2022/01/13/logos.jpeg"
     alt_text: uBuild Blocks Mock-Up
 - template: content-feature
   block: feature-1
