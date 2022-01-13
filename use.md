@@ -20,6 +20,9 @@ page_sections:
   headline: ''
   slug: ''
   content: ''
+- template: simple-footer
+  block: footer-1
+  content: Fuck this shit im out!
 menu:
   main:
     weight: 2
