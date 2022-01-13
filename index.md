@@ -33,10 +33,8 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: swap
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+  headline: "<strong>.Encrypted </strong><br>A premium HNS Blockchain domain"
+  content: Its the fucking best thing since sliced bread
   media:
     image: "/uploads/2022/01/13/encrypted.jpeg"
     alt_text: uBuild Blocks Mock-Up
