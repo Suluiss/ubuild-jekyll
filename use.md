@@ -17,9 +17,9 @@ page_sections:
   media:
     image: "/uploads/2022/01/13/logos.jpeg"
     alt_text: ''
-  headline: ''
-  slug: ''
-  content: ''
+  headline: sfsfe
+  slug: sfg
+  content: ggdgdg
 - template: simple-footer
   block: footer-1
   content: Fuck this shit im out!
