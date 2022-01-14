@@ -11,7 +11,7 @@ page_sections:
     link_text: ".paid Domains"
   - link: use
     link_text: ".use Domains"
-  - link: ".use"
+  - link: "/use"
     link_text: About
   cta:
     url: ''
