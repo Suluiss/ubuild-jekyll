@@ -9,9 +9,9 @@ page_sections:
   navigation:
   - link: ".paid Domains"
     link_text: ".paid Domains"
-  - link: ".use Domains"
+  - link: "/.use"
     link_text: ".use Domains"
-  - link: about/
+  - link: ".use"
     link_text: About
   cta:
     url: ''
